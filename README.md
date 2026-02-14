@@ -79,6 +79,15 @@ Modern responsive developer portfolio.
 
 ---
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omkarkumbhar47\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarkumbhar47\&layout=compact\&theme=radical)
+---
+
+
 ## 🤝 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/omkar-kumbhar
