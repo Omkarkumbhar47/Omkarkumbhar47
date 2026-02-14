@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi 👋 I'm Omkar Kumbhar
 
-<!--
-**Omkarkumbhar47/Omkarkumbhar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer (MERN)
+🚀 Building scalable web applications
+📍 Pune, Maharashtra, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 👨‍💼 MERN Stack Developer at Nextastra Technologies Pvt Ltd
+* 🧠 Strong in React, Node.js, MongoDB & modern UI
+* 🏗️ Passionate about performance & scalable architecture
+* 🎯 Focused on real-world product development
+* 📫 Email: [kumbharomkar747@gmail.com](mailto:kumbharomkar747@gmail.com)
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://v2-portfolio-navy.vercel.app/
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Redux
+* React Query
+
+### Backend
+
+* Node.js
+* Express.js
+* NestJS
+* WebRTC
+
+### Database
+
+* MongoDB
+* PostgreSQL
+* MySQL
+
+### Tools
+
+* Git
+* Vercel
+* Render
+
+---
+
+## 🚀 Featured Projects
+
+### 🎮 3D Model Viewer
+
+Interactive 3D model viewer built using React Three Fiber & Three.js.
+Supports zoom, rotate, and browser-based rendering.
+
+### 🎨 3D Artist Portfolio
+
+A visually rich portfolio for a 3D animator using React + Three.js.
+
+### 🌐 Personal Portfolio
+
+Modern responsive developer portfolio.
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Omkarkumbhar47\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarkumbhar47\&layout=compact\&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/omkar-kumbhar
+* Portfolio: https://v2-portfolio-navy.vercel.app/
+* Email: [kumbharomkar747@gmail.com](mailto:kumbharomkar747@gmail.com)
