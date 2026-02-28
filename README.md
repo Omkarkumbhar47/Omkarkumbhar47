@@ -18,7 +18,7 @@
 
 ## 🌐 Portfolio
 
-🔗 https://v2-portfolio-navy.vercel.app/
+🔗 https://omkar-dev-portfolio.vercel.app
 
 ---
 
