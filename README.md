@@ -18,7 +18,7 @@
 
 ## 🌐 Portfolio
 
-🔗 https://omkar-dev-portfolio.vercel.app
+🔗 [https://omkar-dev-portfolio.vercel.app](https://omkar-dev-portfolio.vercel.app/)
 
 ---
 
